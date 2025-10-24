@@ -1,0 +1,6 @@
+name: BaronessLaravelBridge
+main: ru.ezcode.bridge.BaronessLaravelBridge
+version: 2.0
+author: EzCode
+softDepends:
+  - BaronessAuth

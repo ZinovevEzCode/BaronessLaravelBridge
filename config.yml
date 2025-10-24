@@ -1,0 +1,13 @@
+debug: true
+jwtSecret: ""
+db_host: ""
+db_port: 3306
+db_database: ""
+db_user: ""
+db_password: ""
+table_users: users
+table_sessions: sessions
+column_user_id: id
+column_username: name
+column_session_user_id: user_id
+message_to_player: "&e[AndLine] &cПроизошла ошибка при сбросе вашей сессии. Сообщите администрации."
